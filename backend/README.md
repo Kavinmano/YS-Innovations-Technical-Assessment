@@ -24,7 +24,5 @@ It provides RESTful APIs for creating, updating, deleting, and filtering tasks.
 - **Cors** – Enable cross-origin requests from React frontend  
 - **Dotenv** – Manage environment variables securely  
 
----
 
-## 📂 Folder Structure
 
